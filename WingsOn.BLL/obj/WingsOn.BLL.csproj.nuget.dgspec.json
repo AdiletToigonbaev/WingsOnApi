@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj",
+        "projectName": "WingsOn.BLL",
+        "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj",
+        "packagesPath": "C:\\Users\\Adilet_Toigonbaev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Adilet_Toigonbaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj": {
+                "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj"
+              },
+              "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.7.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj",
+        "projectName": "WingsOn.Dal",
+        "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj": {
+                "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj",
+        "projectName": "WingsOn.Domain",
+        "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

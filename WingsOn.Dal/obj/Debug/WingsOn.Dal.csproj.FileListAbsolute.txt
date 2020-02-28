@@ -1,0 +1,13 @@
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\WingsOn.Dal.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\WingsOn.Dal.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\AutoMapper.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\System.ValueTuple.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\WingsOn.Domain.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\WingsOn.Domain.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\AutoMapper.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\AutoMapper.xml
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\bin\Debug\System.ValueTuple.xml
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\obj\Debug\WingsOn.Dal.csprojAssemblyReference.cache
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\obj\Debug\WingsOn.Dal.csproj.CopyComplete
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\obj\Debug\WingsOn.Dal.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Dal\obj\Debug\WingsOn.Dal.pdb

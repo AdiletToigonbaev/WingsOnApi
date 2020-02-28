@@ -1,0 +1,10 @@
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\WingsOn.Domain.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\WingsOn.Domain.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\AutoMapper.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\System.ValueTuple.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\AutoMapper.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\AutoMapper.xml
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\bin\Debug\System.ValueTuple.xml
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\obj\Debug\WingsOn.Domain.csproj.CopyComplete
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\obj\Debug\WingsOn.Domain.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.Domain\obj\Debug\WingsOn.Domain.pdb

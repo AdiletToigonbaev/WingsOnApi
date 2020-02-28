@@ -1,0 +1,267 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "AutoMapper/9.0.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "lib/net461/AutoMapper.dll": {}
+        },
+        "runtime": {
+          "lib/net461/AutoMapper.dll": {}
+        }
+      },
+      "Unity/5.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/net47/CommonServiceLocator.dll": {},
+          "lib/net47/Unity.Abstractions.dll": {},
+          "lib/net47/Unity.Configuration.dll": {},
+          "lib/net47/Unity.Container.dll": {},
+          "lib/net47/Unity.Interception.Configuration.dll": {},
+          "lib/net47/Unity.Interception.dll": {},
+          "lib/net47/Unity.RegistrationByConvention.dll": {},
+          "lib/net47/Unity.ServiceLocation.dll": {}
+        },
+        "runtime": {
+          "lib/net47/CommonServiceLocator.dll": {},
+          "lib/net47/Unity.Abstractions.dll": {},
+          "lib/net47/Unity.Configuration.dll": {},
+          "lib/net47/Unity.Container.dll": {},
+          "lib/net47/Unity.Interception.Configuration.dll": {},
+          "lib/net47/Unity.Interception.dll": {},
+          "lib/net47/Unity.RegistrationByConvention.dll": {},
+          "lib/net47/Unity.ServiceLocation.dll": {}
+        }
+      },
+      "WingsOn.Dal/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "WingsOn.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WingsOn.Dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WingsOn.Dal.dll": {}
+        }
+      },
+      "WingsOn.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/WingsOn.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WingsOn.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoMapper/9.0.0": {
+      "sha512": "xCqvoxT4HIrNY/xlXG9W+BA/awdrhWvMTKTK/igkGSRbhOhpl3Q8O8Gxlhzjc9JsYqE7sS6AxgyuUUvZ6R5/Bw==",
+      "type": "package",
+      "path": "automapper/9.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "automapper.9.0.0.nupkg.sha512",
+        "automapper.nuspec",
+        "lib/net461/AutoMapper.dll",
+        "lib/net461/AutoMapper.pdb",
+        "lib/net461/AutoMapper.xml",
+        "lib/netstandard2.0/AutoMapper.dll",
+        "lib/netstandard2.0/AutoMapper.pdb",
+        "lib/netstandard2.0/AutoMapper.xml"
+      ]
+    },
+    "Unity/5.7.3": {
+      "sha512": "zo0zeSyj53e/Lz2XQrbvoMMXe3hCHs9rp49D1VA+gCm3I6SMvCE7NbhVKUkalJ4o51Ps3Of2W/Rs+OkNSqlelg==",
+      "type": "package",
+      "path": "unity/5.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/CommonServiceLocator.dll",
+        "lib/net40/CommonServiceLocator.pdb",
+        "lib/net40/Unity.Abstractions.dll",
+        "lib/net40/Unity.Abstractions.pdb",
+        "lib/net40/Unity.Container.dll",
+        "lib/net40/Unity.Container.pdb",
+        "lib/net40/Unity.Interception.dll",
+        "lib/net40/Unity.Interception.pdb",
+        "lib/net40/Unity.ServiceLocation.dll",
+        "lib/net40/Unity.ServiceLocation.pdb",
+        "lib/net45/CommonServiceLocator.dll",
+        "lib/net45/CommonServiceLocator.pdb",
+        "lib/net45/Unity.Abstractions.dll",
+        "lib/net45/Unity.Abstractions.pdb",
+        "lib/net45/Unity.Configuration.dll",
+        "lib/net45/Unity.Configuration.pdb",
+        "lib/net45/Unity.Container.dll",
+        "lib/net45/Unity.Container.pdb",
+        "lib/net45/Unity.Interception.Configuration.dll",
+        "lib/net45/Unity.Interception.Configuration.pdb",
+        "lib/net45/Unity.Interception.dll",
+        "lib/net45/Unity.Interception.pdb",
+        "lib/net45/Unity.RegistrationByConvention.dll",
+        "lib/net45/Unity.RegistrationByConvention.pdb",
+        "lib/net45/Unity.ServiceLocation.dll",
+        "lib/net45/Unity.ServiceLocation.pdb",
+        "lib/net46/CommonServiceLocator.dll",
+        "lib/net46/CommonServiceLocator.pdb",
+        "lib/net46/Unity.Abstractions.dll",
+        "lib/net46/Unity.Abstractions.pdb",
+        "lib/net46/Unity.Configuration.dll",
+        "lib/net46/Unity.Configuration.pdb",
+        "lib/net46/Unity.Container.dll",
+        "lib/net46/Unity.Container.pdb",
+        "lib/net46/Unity.Interception.Configuration.dll",
+        "lib/net46/Unity.Interception.Configuration.pdb",
+        "lib/net46/Unity.Interception.dll",
+        "lib/net46/Unity.Interception.pdb",
+        "lib/net46/Unity.RegistrationByConvention.dll",
+        "lib/net46/Unity.RegistrationByConvention.pdb",
+        "lib/net46/Unity.ServiceLocation.dll",
+        "lib/net46/Unity.ServiceLocation.pdb",
+        "lib/net47/CommonServiceLocator.dll",
+        "lib/net47/CommonServiceLocator.pdb",
+        "lib/net47/Unity.Abstractions.dll",
+        "lib/net47/Unity.Abstractions.pdb",
+        "lib/net47/Unity.Configuration.dll",
+        "lib/net47/Unity.Configuration.pdb",
+        "lib/net47/Unity.Container.dll",
+        "lib/net47/Unity.Container.pdb",
+        "lib/net47/Unity.Interception.Configuration.dll",
+        "lib/net47/Unity.Interception.Configuration.pdb",
+        "lib/net47/Unity.Interception.dll",
+        "lib/net47/Unity.Interception.pdb",
+        "lib/net47/Unity.RegistrationByConvention.dll",
+        "lib/net47/Unity.RegistrationByConvention.pdb",
+        "lib/net47/Unity.ServiceLocation.dll",
+        "lib/net47/Unity.ServiceLocation.pdb",
+        "lib/netcoreapp1.0/CommonServiceLocator.deps.json",
+        "lib/netcoreapp1.0/CommonServiceLocator.dll",
+        "lib/netcoreapp1.0/CommonServiceLocator.pdb",
+        "lib/netcoreapp1.0/Unity.Abstractions.deps.json",
+        "lib/netcoreapp1.0/Unity.Abstractions.dll",
+        "lib/netcoreapp1.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp1.0/Unity.Container.deps.json",
+        "lib/netcoreapp1.0/Unity.Container.dll",
+        "lib/netcoreapp1.0/Unity.Container.pdb",
+        "lib/netcoreapp1.0/Unity.ServiceLocation.deps.json",
+        "lib/netcoreapp1.0/Unity.ServiceLocation.dll",
+        "lib/netcoreapp1.0/Unity.ServiceLocation.pdb",
+        "lib/netcoreapp2.0/Unity.Abstractions.dll",
+        "lib/netcoreapp2.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Unity.Container.deps.json",
+        "lib/netcoreapp2.0/Unity.Container.dll",
+        "lib/netcoreapp2.0/Unity.Container.pdb",
+        "lib/netstandard1.0/CommonServiceLocator.deps.json",
+        "lib/netstandard1.0/CommonServiceLocator.dll",
+        "lib/netstandard1.0/CommonServiceLocator.pdb",
+        "lib/netstandard1.0/Unity.Abstractions.deps.json",
+        "lib/netstandard1.0/Unity.Abstractions.dll",
+        "lib/netstandard1.0/Unity.Abstractions.pdb",
+        "lib/netstandard1.0/Unity.Container.deps.json",
+        "lib/netstandard1.0/Unity.Container.dll",
+        "lib/netstandard1.0/Unity.Container.pdb",
+        "lib/netstandard1.0/Unity.ServiceLocation.deps.json",
+        "lib/netstandard1.0/Unity.ServiceLocation.dll",
+        "lib/netstandard1.0/Unity.ServiceLocation.pdb",
+        "lib/netstandard2.0/CommonServiceLocator.deps.json",
+        "lib/netstandard2.0/CommonServiceLocator.dll",
+        "lib/netstandard2.0/CommonServiceLocator.pdb",
+        "lib/netstandard2.0/Unity.Abstractions.deps.json",
+        "lib/netstandard2.0/Unity.Abstractions.dll",
+        "lib/netstandard2.0/Unity.Abstractions.pdb",
+        "lib/netstandard2.0/Unity.Container.deps.json",
+        "lib/netstandard2.0/Unity.Container.dll",
+        "lib/netstandard2.0/Unity.Container.pdb",
+        "lib/netstandard2.0/Unity.ServiceLocation.deps.json",
+        "lib/netstandard2.0/Unity.ServiceLocation.dll",
+        "lib/netstandard2.0/Unity.ServiceLocation.pdb",
+        "unity.5.7.3.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    },
+    "WingsOn.Dal/1.0.0": {
+      "type": "project",
+      "path": "../WingsOn.Dal/WingsOn.Dal.csproj",
+      "msbuildProject": "../WingsOn.Dal/WingsOn.Dal.csproj"
+    },
+    "WingsOn.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WingsOn.Domain/WingsOn.Domain.csproj",
+      "msbuildProject": "../WingsOn.Domain/WingsOn.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "AutoMapper >= 9.0.0",
+      "Unity >= 5.7.3",
+      "WingsOn.Dal >= 1.0.0",
+      "WingsOn.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Adilet_Toigonbaev\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj",
+      "projectName": "WingsOn.BLL",
+      "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\WingsOn.BLL.csproj",
+      "packagesPath": "C:\\Users\\Adilet_Toigonbaev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adilet_Toigonbaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj": {
+              "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Dal\\WingsOn.Dal.csproj"
+            },
+            "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj": {
+              "projectPath": "C:\\Users\\Adilet_Toigonbaev\\Desktop\\wingson template\\WingsOn.Domain\\WingsOn.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
+          "Unity": {
+            "target": "Package",
+            "version": "[5.7.3, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

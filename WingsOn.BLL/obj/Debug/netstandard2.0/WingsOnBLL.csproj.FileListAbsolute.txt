@@ -1,0 +1,13 @@
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOnBLL.deps.json
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOnBLL.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOnBLL.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOn.Dal.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOn.Domain.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOn.Dal.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\bin\Debug\netstandard2.0\WingsOn.Domain.pdb
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.csprojAssemblyReference.cache
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.AssemblyInfoInputs.cache
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.AssemblyInfo.cs
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.csproj.CopyComplete
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.dll
+C:\Users\Adilet_Toigonbaev\Desktop\wingson template\WingsOn.BLL\obj\Debug\netstandard2.0\WingsOnBLL.pdb
